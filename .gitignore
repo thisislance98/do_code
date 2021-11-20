@@ -1,7 +1,3 @@
-.idea/do_code.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
-do_code/__pycache__/__init__.cpython-38.pyc
-do_code/__pycache__/code.cpython-38.pyc
-do_code/data.db
+dist
+build
+secret.ini
