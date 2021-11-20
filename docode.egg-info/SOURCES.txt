@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+docode/__init__.py
+docode/_code.py
+docode/config.ini
+docode/docode.py
+docode.egg-info/PKG-INFO
+docode.egg-info/SOURCES.txt
+docode.egg-info/dependency_links.txt
+docode.egg-info/requires.txt
+docode.egg-info/top_level.txt
